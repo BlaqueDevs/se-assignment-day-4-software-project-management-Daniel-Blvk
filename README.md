@@ -20,9 +20,36 @@
        -> BY making sure that the project timeline is met since going overtime means going overbudget.
        -> BY avoiding wastage of a budget by purchasing required tools and assets important to the project in question.
 2. strategies to be used to prevent budget overruns.
-   
+       -> have a clear set budget with clear set module goals and allocations
+       -> have an expenditure plan to know how to implement budgets in a clear manner
+       -> have a clear deadline to prevent overspending on extra time and person months.
 ## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
+waterfall methodologies vs agile methodologies
+waterfall methidologies uses a step by step apporoach in system development while agilemethodologies use dynamic ways of software developments with changing requirements.
+advatages of waterfall methodologies
+1. allows the developer to complete one process in development cycle then enter the next phase of development reducing confusion .
+2. suitable for systems with no changing requirements.
+3. has a clear structure of implementation (SDLC)
+4. enables focusing on a clear goal without deflecting unlike agile which may focus in the end goal while upgrading the system.
+disadvantages of waterfall methodologies
+1. making changes in the software is hard since every step has a timeline.
+2. development focuses on the develoment team together with the solid requirements minus the user
+3. reduces user experience and user contribution such that the end product might not meet changing user requirements
+4. expensive when doing testing at the end of development.
+advantages of agile methodologies
+1. easy to make changes to software code during development
+2. cheap in implementing testing since testing is done early in the developmet stages until completion
+3. more edged on user experience and interaction since the develpopers include the user in the developmet process
+4. since the developmet process changes with new requirements, the end product is quality software.
+disadvntages of agile methodologies
+1. highly dependent on the user. this might cause unavoidable inconveniences during development
+2. inadequate team collaboration can lead to project delay and stagnation
+3. planning and implementation can take alot of time especially with small projects and small teams.
+
+
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
+for agile methodologies:
+1. 
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
