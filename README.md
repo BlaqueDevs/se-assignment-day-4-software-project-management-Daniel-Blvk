@@ -49,9 +49,40 @@ disadvntages of agile methodologies
 
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
 for agile methodologies:
-1. 
+1. web applications are best suited for agile methodologies since content changes and user requirements eg UI/UX design might be suggested by ways of commentaries or surveys.
+    for example: university taxi booking platform, university online clothes shop.
+for waterfall methodologies:
+1.for websites( static websites) with no changing information is best suited. for example:
+    online research paper viewing system for researchers and studentd.
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
+methods for ensuring software quality.
+1. involving the user or stakeholders in the development process.
+2. testing after each deliverable being developed to remove bugs present in the system
+3. having user experience testing by rolling out the system to selected users to get feedback on areasto improve.
+4. testing for requirement delivery from the system according to user requirements specification.
+5. reducing runtime when actions are done in order to assist in efficiency.
+6. developing heavily on eror handling and exception handling in order to handle invalid user inputs.
+
+importance of maintaining high standards
+1. makes software worthy of use
+2. makes the software reliable 
+3. solves problems for users and stakeholders alike
+4. quality software is worth an investment
+5. quality software is easy for new users to interact with since it is user friendly
+
+   
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
+defining software scope contributes to successful project planning in the following ways.
+1. with a scope, developers get to know which user requirements to consider hence stay within the timeline and schedule
+2. with a clear scope, the project amnager knows which asseststo buy to satisfy the user or stakeholder requirements.
+3. with a clear scope, the project will not have extra features that are not required hence having short development time and proper budget use.
+
+a work breakdown structure is a formula so to say that assists in dividing large projects into smaller achievable milestones and allocating time and teams to them.
+a WBS useful because:
+1. it helps the developers do sprints of development by accomplishing strategic goals on time.
+2. it assists in meeting project deadline becausse the divided sprints are achievable since each team works on one module to completion.
+3. 
+
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
