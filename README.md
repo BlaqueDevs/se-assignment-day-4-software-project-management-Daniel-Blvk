@@ -81,12 +81,36 @@ a work breakdown structure is a formula so to say that assists in dividing large
 a WBS useful because:
 1. it helps the developers do sprints of development by accomplishing strategic goals on time.
 2. it assists in meeting project deadline becausse the divided sprints are achievable since each team works on one module to completion.
-3. 
+3. helps to minitor incomplete projects, and keep track of finished modules and those with pending allocations
 
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
+benefits of developing a detailed project schedule include:
+1. project schedules help in saving time on development
+2. they help in scraping out deadweight of unimportant tesks and procedures and focusing on the goal of develoment and it's processes.
+3. project schedules help in allocacion of funds and bidgets when needed.
+4. they help on saving money by making sure the project does not exceed the appointed deadline
+5. they make the stakeholders and customers happy by delivering on time and in completion.
+-> gantt charts help in marking out the proceccs within the project with their respective timelines and deliverables.
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
+1. my software seeks to remove the barrier between freight drivers and everyday regular customers who seek services of transportation and relocation.
+2. my software seeks to bring customers closer even though a distance away, through technology by heloung customers of different areas, seek and finfd freight drivers from within their vicinity and find specifications that they need for thwir service.
+3. remove middlemen who might take advantage of customers and lead them to low service providing drivers.
+-> these problems are faced by froeight drivers and controlers since there is no difinitive way to reach customers or for customers to reach the drivers except by phone which might be hard since some drivers have on  type of vehicle and customers might not want the size being offered so the customer has to see for themselves the lorry size and photos before employing a driver for the sevice.
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
+defining clear problem helps by:
+1. a known problem seeks a solution. without a problem solutions cannot be found.
+2. defining a problem showcases the effects of the problem to real world users and now how to make sure the problem removes the everyday struggle to get by with the problem.
+3. defining a problem well, seeks out a question of what are the methods present that seek to solve the problem and how effective are they in solving the problem. then after this amore efficient and effective solution can be offered.
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
+think of finding a truck driver, a driver within your vicinity, adriver with a rofile page with details of the vehicle of your choice, you need a pickup truck? mini lorry, mid-sized lorry, trailler or a flatbed? check out transnet.com and find services offered by truck drivers around you. no nned to make long phone calls to find out whether the driver is available or not, chech the status and confirm if the service is ready to be offered or not. Transnet, services at your finger tips.
 ## 11. What are the main features or functionalities that make your software stand out?
+1. a geographical scanner with details of the driver's trucks and their respective venues for customers who logged into the system.
+2. truck tracker that shows where the truck is during service delivery.
+3. user friendly interface with clear instructions to help users and drivers alike to access their profiles and messages.
 ## 12. What data is available regarding the market size and growth potential for your software?
+the freight business space is massive not only within my vicinity but country wide. ports need trailers to transport cargo, my software alerts them of trucks within the vicinity with specification they might be intereted in.
+-> this software can be adopted in any region within the cointry and also any region outside the country.
 ## 13. How can understanding market trends inform your software’s positioning and development?
+-> knowing what the market needs will help in developing software that offers or points out the solution to everyday users.
+-> knowing the size of the market means knowing the range of users expected to register with the software leading to knowing the best practices to store data and size of servers to have in order to assist in handling crashes when an overload occurs.
+-> with changing customer demands having advertisments that fit a number of drivers is essential in finding a market fro them to flourish
